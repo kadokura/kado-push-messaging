@@ -1,0 +1,11 @@
+source/app/public/
+app/public
+bower_components
+node_modules
+coverage
+.idea
+.sass-cache
+.DS_Store
+npm-debug.log
+source/npm-debug.log
+gaego_practice/src/publish
